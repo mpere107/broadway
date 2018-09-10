@@ -62,4 +62,29 @@ h3.sub-section-font {
 /*Contact Section END*/
 
 /*Footer*/
+#footer-div {
+  background-color: dimgray;
+}
+
+li.copyright {
+  font-size: 11px;
+  text-align: left; /*Remember, prioritization is at work on this line; class > tag (hence, the <html> tag)*/
+  color: white;
+  background-color: dimgray;
+}
+
+.nav-horizontal-list {
+  background-color: dimgray;
+}
+
+.nav-horizontal-list li {
+  float: left;
+  color: white;
+  background-color: dimgray;
+}
+
+.nav-horizontal-list li a {
+  display: block;
+  background-color: dimgray;
+}
 /*Footer END*/
