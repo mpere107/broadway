@@ -1,3 +1,46 @@
+/*Universal*/
 html {
   text-align: center;
+  font-family: Helvetica;
 }
+/*Universal END*/
+
+/*Header Styles*/
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#header-div {
+  background-image: url("../img/flatiron_building.png");
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+  margin-right: 50px;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+/*Header END*/
+
+/*Process Section*/
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+/*Process END*/
